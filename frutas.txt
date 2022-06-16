@@ -2,3 +2,4 @@
 -	Manzana
 -	Pera
 -	Níspero
+-	Mango
