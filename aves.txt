@@ -3,3 +3,4 @@
 -	Golondrina
 -	Ave nueva
 -	Estornino
+-	Loro
