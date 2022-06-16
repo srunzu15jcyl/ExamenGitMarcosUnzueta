@@ -3,3 +3,4 @@
 -	Aloe Vera
 -	Planta nueva
 -	Cactus
+-	Encina
