@@ -3,3 +3,5 @@
 -	Pera
 -	Níspero
 -	Mango
+-	Melón
+-	Sandía
