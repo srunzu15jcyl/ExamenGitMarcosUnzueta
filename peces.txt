@@ -1,3 +1,4 @@
 -	Atún
 -	Sardina
 -	Jurel
+-	Salmón
