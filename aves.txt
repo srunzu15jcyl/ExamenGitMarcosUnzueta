@@ -2,3 +2,5 @@
 -	Cigüeña
 -	Golondrina
 -	Ave nueva
+-	Estornino
+-	Loro
